@@ -1,6 +1,8 @@
 # Environment Use
 
-A small prototype for marine mammal trainers: see which dolphins are in each pool and record moves between pools.
+A demonstration for the 2026 IMATA conference on how to use AI agents to make simple tools.
+
+This is a small prototype for marine mammal trainers: see which dolphins are in each pool and record moves between pools.
 Runs entirely in the browser (React + TypeScript + Vite + Tailwind). State is saved in `localStorage`.
 
 ```bash
